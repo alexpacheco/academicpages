@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, University of Florida, 2006
+* M.Sc. in Chemistry, University of Pune, 1999
+* B.Sc. in Chemistry, University of Mumbai, 1994
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present
+  * New Jersey Insitute of Technology
+  * Associate CIO - Advanced Research Computing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2022 
+  * Lehigh University
+  * Manager, Research Computing
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010 - 2014
+  * Louisiana State University
+  * HPC User Services Consultant
+
+* 2006 - 2010
+  * Indiana University
+  * Postdoctoral Fellow
   
 Skills
 ======
@@ -61,4 +62,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ACCESS (formely XSEDE) Campus Champion
+
+
