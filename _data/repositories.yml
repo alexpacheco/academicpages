@@ -1,0 +1,21 @@
+# _data/repositories.yml
+- github: alexpacheco/hpc-training
+- github: alexpacheco/fortran
+- github: alexpacheco/shell
+- github: alexpacheco/openmp
+- github: alexpacheco/openacc
+- github: alexpacheco/cprog
+- github: alexpacheco/linux
+- github: alexpacheco/latex
+- github: alexpacheco/lurc
+- github: alexpacheco/python
+- github: alexpacheco/parprog
+- github: alexpacheco/devtools
+- github: alexpacheco/rprog
+- github: alexpacheco/datavis
+- github: alexpacheco/octave
+- github: alexpacheco/chemistry
+- github: alexpacheco/autodock
+- github: alexpacheco/hpc
+- github: alexpacheco/userenv
+- github: alexpacheco/globus

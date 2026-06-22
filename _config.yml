@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Alex Pacheco"
+title                    : "Alex Pacheco, Ph. D."
 title_separator          : "-"
 name                     : &name "Alex Pacheco"
 description              : &description "Alex Pacheco's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "pacheco.png"
   name             : "Alex Pacheco"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "HPC, Fortran, Linux, Chemist"
+  location         : "Newark, NJ"
+  employer         : "New Jersey Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alexpacheco@njit.edu" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,6 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  thesis:
+    title: 'Ph. D. Dissertation'
   books:
     title: 'Books'
   manuscripts:

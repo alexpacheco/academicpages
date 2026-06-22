@@ -1,0 +1,22 @@
+# _data/portfolio.yml
+profiles:
+  - name: alexpacheco
+    type: user
+  - name: arcs-njit-edu
+    type: org
+  - name: njit-research
+    type: org
+
+repos:
+  - name: alexpacheco/sol_reporting
+  - name: arcs-njit-edu/Docs
+  - name: njit-research/njit-research.github.io
+  - name: alexpacheco/spackenv
+  - name: alexpacheco/LSUBeamer
+  - name: alexpacheco/LehighBeamer
+  - name: alexpacheco/lurc-ood-apps
+  - name: alexpacheco/lurc-ood-rstudio
+  - name: alexpacheco/lurc-ood-desktop
+  - name: alexpacheco/bc_osc_jupyter_spark
+  - name: alexpacheco/lubio
+  - name: alexpacheco/moleculardynamics 

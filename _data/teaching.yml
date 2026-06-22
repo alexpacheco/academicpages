@@ -1,0 +1,26 @@
+# _data/teaching.yml
+profiles:
+  - name: alexpacheco
+    type: user
+
+repos:
+  - name: alexpacheco/hpc-training
+  - name: alexpacheco/fortran
+  - name: alexpacheco/shell
+  - name: alexpacheco/openmp
+  - name: alexpacheco/openacc
+  - name: alexpacheco/cprog
+  - name: alexpacheco/linux
+  - name: alexpacheco/latex
+  - name: alexpacheco/lurc
+  - name: alexpacheco/python
+  - name: alexpacheco/parprog
+  - name: alexpacheco/devtools
+  - name: alexpacheco/rprog
+  - name: alexpacheco/datavis
+  - name: alexpacheco/octave
+  - name: alexpacheco/chemistry
+  - name: alexpacheco/autodock
+  - name: alexpacheco/hpc
+  - name: alexpacheco/userenv
+  - name: alexpacheco/globus
