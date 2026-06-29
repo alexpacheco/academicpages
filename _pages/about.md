@@ -26,12 +26,14 @@ On this site, you will find information on my academic work, as well as tutorial
 
 ## Contact Me
 
-Guttenberg Information Technologies Center (GITC) <br />
-Suite 5400 <br />
-University Heights,<br />
-Newark, NJ 07102<br />
-Phone: <a href="tel:+9735963000">(973) 596-3000</a><br />
-Office: <a href="https://maps.app.goo.gl/vsH564EibxVWRyDz7">GITC</a><br />
+<address style="font-style: normal; line-height: 1.6;">
+  Guttenberg Information Technologies Center (GITC)<br />
+  Suite 5400<br />
+  University Heights,<br />
+  Newark, NJ 07102<br />
+  Phone: (973) 596-3000<br />
+</address>
+
 
 
 
